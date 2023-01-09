@@ -1,9 +1,9 @@
 
 Este repositorio contiene información relacionada con la documentación, escritura y entrega del TFG o TFM de la ETSIDI. 
 
-En la carpeta [documentacion]() se pueden encontrar documentos relativos a la normativa de entrega y defensa de los trabajos, así como la rúbrica que usan los profesores para calcular la nota final. 
+En la carpeta [documentacion](https://github.com/davizinho5/TFG_TFM_ETSIDI/tree/main/documentacion) se pueden encontrar documentos relativos a la normativa de entrega y defensa de los trabajos, así como la rúbrica que usan los profesores para calcular la nota final. 
 
-En la carpeta [plantillas]() se pueden encontrar plantillas para usar en la escritura y la defensa (presentación) de los TFGs o TFMs. Las plantillas de Word tienen algunas instrucciones que es conveniente leer antes de usar, explicadas en el Readme que se pueden encontrar dentro de la carpeta.  
+En la carpeta [plantillas](https://github.com/davizinho5/TFG_TFM_ETSIDI/tree/main/plantillas) se pueden encontrar plantillas para usar en la escritura y la defensa (presentación) de los TFGs o TFMs. Las plantillas de Word tienen algunas instrucciones que es conveniente leer antes de usar, explicadas en el Readme que se pueden encontrar dentro de la carpeta.  
 
 ## Buenas prácticas para al escritura
 
