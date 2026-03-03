@@ -1,11 +1,14 @@
 
 Este repositorio contiene información relacionada con la documentación, escritura y entrega del TFG o TFM de la ETSIDI. 
 
-En la carpeta [documentacion](https://github.com/davizinho5/TFG_TFM_ETSIDI/tree/main/documentacion) se pueden encontrar documentos relativos a la normativa de entrega y defensa de los trabajos, así como la rúbrica que usan los profesores para poner la nota final. 
+En la carpeta [documentacion](https://github.com/davizinho5/TFG_TFM_ETSIDI/tree/main/documentacion) se pueden encontrar documentos relativos a la normativa del TFG, de entrega y de la defensa de los trabajos.
+Además, al final de la normativa está la rúbrica que usan los profesores para poner la nota final. 
 
-En la carpeta [plantillas](https://github.com/davizinho5/TFG_TFM_ETSIDI/tree/main/plantillas) se pueden encontrar plantillas para usar en la escritura y la defensa (presentación) de los TFGs o TFMs.
+En la carpeta [plantillas](https://github.com/davizinho5/TFG_TFM_ETSIDI/tree/main/plantillas) se pueden encontrar plantillas para usar en la escritura de los TFGs o TFMs.
 Para la escritura, SE RECOMIENDA usar la plantilla de latex, tanto para TFG como para TFM. Una vez descargado el ZIP, se puede subir fácilemente un proyecto a [Overleaf](https://www.overleaf.com/) y, usando una cuanta de alumno de la UPM, escribir fácilmente en latex. En caso de escribir un TFM, hay que cambiar el código para elegir que se use la portada de TFM.
 En caso de usar Word, las plantillas tienen algunas instrucciones que es conveniente leer antes de usar, explicadas en el archivo Readme que se pueden encontrar dentro de la carpeta.  
+
+Para la [presentación](https://www.upm.es/UPM/SalaPrensa/IdentidadGrafica/LogosPlantillas/UPM/Plantillas), la UPM tiene plantillas para cada escuela, aunque no es obligatorio usar esas plantillas, se puede usar un diseño propio. 
 
 ## Buenas prácticas para al escritura
 
