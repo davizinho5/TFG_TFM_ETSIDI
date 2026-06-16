@@ -43,6 +43,6 @@ Decir algo NO ES simplemente decir que la figura X está en el documento, es exp
 Además, si las imágenes se copian de otro sitio, deben ir referenciadas.
 Por último, si escribes un texto en español, pero copias figuras con texto en inglés, deberías modificarlas para que aparezca en español.
 
-- Una bibliografñia NO PUEDE ser un conjunto de páginas webs visitadas. Si se poe alguna pagina web, hay que poner la fecha en la que ha sido visitada por última vez (las páginas web desaparecen y/o cambian).
+- Una bibliografía NO PUEDE ser un conjunto de páginas webs visitadas. Si se poe alguna pagina web, hay que poner la fecha en la que ha sido visitada por última vez (las páginas web desaparecen y/o cambian).
 
 Consejo final: escribir el documento intentanto que vuestros padres/amig@s sin formación técnica puedan comprenderlo. Y si alguno de ellos se lee el documento, mejor, porque sabrá indicarte qué se entiende bien (aunque no entienda las ecuaciones, el texto debería explicarlas) y qué necesita mejorar.
